@@ -1,8 +1,8 @@
 # Mathematical-Modeling-Codes
 Matlab codes for Mathematical Modeling, preparing for Mathematical Modeling Competition.
 
-## Analytic Hierarchy Process
+**Analytic Hierarchy Process**
 
-## Interpolation
+**Interpolation**
 
-## Fitting
+**Fitting**
