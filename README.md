@@ -1,5 +1,5 @@
 # Mathematical-Modeling-Codes
-Matlab codes for Mathematical Modeling, preparing for Mathematical Modeling Competition.
+Matlab codes for Mathematical Modeling in Matlab, preparing for Mathematical Modeling Competition.
 
 ## Content
 
