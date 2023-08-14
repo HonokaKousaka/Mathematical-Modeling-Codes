@@ -12,3 +12,5 @@ Matlab codes for Mathematical Modeling in Matlab, preparing for Mathematical Mod
 **Fitting**
 
 **Shortest Path (Dijkstra & Bellman-Ford)**
+
+**Shortest Path (Floyd)**
