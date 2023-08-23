@@ -16,3 +16,5 @@ Matlab codes for Mathematical Modeling in Matlab, preparing for Mathematical Mod
 **Shortest Path (Floyd)**
 
 **3D Drawing**
+
+**Symbolic Functions**
